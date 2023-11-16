@@ -1,5 +1,8 @@
 _repo: Un-voluntario-realista_72090
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72090-h/images/cover.jpg
 creator:
   author:
     agent_name: Pérez Galdós, Benito
@@ -16,6 +19,8 @@ creator:
     - https://en.wikipedia.org/wiki/Benito_Pérez_Galdós
     - https://es.wikipedia.org/wiki/Benito_P%C3%A9rez_Gald%C3%B3s
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72090#Un-voluntario-realista
 gutenberg_issued: '2023-11-10'
 identifiers:
   gutenberg: '72090'
